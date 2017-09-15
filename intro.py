@@ -50,10 +50,10 @@ message = '{}, {}. Welcome!'.format(greeting, name);
 print(message);
 
 # what methods are available
-print(dir(message));
-
-# what all the method does
-print(help(str));
-
-# specific info
-print(help(str.lower));
+# print(dir(message));
+#
+# # what all the method does
+# print(help(str));
+#
+# # specific info
+# print(help(str.lower));
