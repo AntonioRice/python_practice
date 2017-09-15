@@ -10,6 +10,7 @@
 
 # Helpful Resources
 - [Corey Schafer's Python Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
+- [Django Documentation](https://www.fullstackpython.com/django.html)
 
 # Goals
 
